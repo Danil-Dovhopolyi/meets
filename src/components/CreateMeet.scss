@@ -1,0 +1,12 @@
+.createmeet {
+  width: 100%;
+  div {
+    margin: 1%;
+  }
+  &__form {
+    padding: 1%;
+    width: 60%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 8px;
+  }
+}
